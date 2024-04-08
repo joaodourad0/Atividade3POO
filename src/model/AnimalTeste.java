@@ -16,7 +16,7 @@ public class AnimalTeste {
         ursoCanada.setCor("Castanho");
         ursoCanada.setAlimento("Mel");
 
-        // Mostrando os dados dos animais
+        
         System.out.println("Dados do Tubarão:");
         tubarao.dados();
         System.out.println();

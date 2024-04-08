@@ -19,6 +19,7 @@ public class Peixe extends Animal {
         this.caracteristica = caracteristica;
     }
 
+    
     public void dados() {
         super.dados();
         System.out.println("Característica: " + caracteristica);

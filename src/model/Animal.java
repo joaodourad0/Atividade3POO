@@ -57,7 +57,7 @@ public class Animal {
         this.velocidade = velocidade;
     }
 
-
+    
     public void dados() {
         System.out.println("Nome: " + nome);
         System.out.println("Comprimento: " + comprimento + " cm");

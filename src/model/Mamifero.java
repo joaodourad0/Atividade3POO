@@ -17,7 +17,6 @@ public class Mamifero extends Animal {
         this.alimento = alimento;
     }
 
-
     public void dados() {
         super.dados();
         System.out.println("Alimento: " + alimento);
